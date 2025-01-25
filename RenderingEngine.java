@@ -1,7 +1,4 @@
-//Name: Siddharth Narayan Umachandran
-//Class: CS4 K
-//Period: 2nd
-//Project: 3D rendering in java
+
 import javax.swing.*;
 import java.awt.*;
 import java.awt.event.KeyEvent;
